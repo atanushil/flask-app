@@ -1,0 +1,1 @@
+podman run -d --name python-app -p 5000:5000 my-app:v1
